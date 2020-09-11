@@ -1,6 +1,5 @@
 PLEASE NOTE, GOOGLE IS GOING TO SOON DEPRICATE THE USAGE OF APPS WITHIN CHROMEOS.  I WILL WORK ON UPDATING THIS EXTENSION, BUT IN THE MEANTIME PLEASE CONSIDER ONE OF THE TWO FOLLOWING OPTIONS:
 - PULL USER-ID INFORMATION FROM YOUR WLC USING 802.1X AUTH
-- IF YOU HAVE THE GP LICENSE, UTILIZE THE GLOBALPROTECT 5.0 APP FOR ANDROID RUNNING ON YOUR CHROMEBOOKS FOR ALWAYS-ON FUNCTIONALITY WITH INTERNAL GATEWAY AND USER-ID INFORMATION SHARING
 
 ###########################################################
 Project:  ChromeOS UserID Plugin for PanOS
@@ -36,6 +35,8 @@ https://www.youtube.com/watch?v=A2ByMty7kL0
 
 PHP
 The php folder contains the files needed for your PHP server.  Both files will be needed within an accessible server from inside your network.  We do not recommend having this script accessible from the outside at this time.  Search the index.php script for the # symbol.  Replace any variables surounded by the $ symbol with your own values.
+
+#Add PHP Windows tweaks here later for speed.
 
 
 
