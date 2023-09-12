@@ -1,3 +1,6 @@
+Google is no longer accepting Apps, this would have to be redone as a chrome extension but manifest v3 has a lot of changes and I no longer deal with Chromebooks.
+
+
 PLEASE NOTE, GOOGLE IS GOING TO SOON DEPRICATE THE USAGE OF APPS WITHIN CHROMEOS.  I WILL WORK ON UPDATING THIS EXTENSION, BUT IN THE MEANTIME PLEASE CONSIDER ONE OF THE TWO FOLLOWING OPTIONS:
 - PULL USER-ID INFORMATION FROM YOUR WLC USING 802.1X AUTH
 
